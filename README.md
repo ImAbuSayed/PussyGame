@@ -1,4 +1,4 @@
-# PussyGame: The Feline Obstacle Course
+# PussyGame: Chilli Challenge
 
 ## About the Game
 
